@@ -36,4 +36,5 @@ class documentocontroller extends Controller
         }, 'fut.pdf');
         exit();
     }
+    //--------------------
 }
