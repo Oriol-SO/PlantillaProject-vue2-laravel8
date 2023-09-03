@@ -21,6 +21,8 @@ class documentocontroller extends Controller
             echo $pdf->output();
         }, 'fut.pdf');
         exit();
+
+        //inicio 
     }
 
 
